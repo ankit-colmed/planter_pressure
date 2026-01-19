@@ -1,0 +1,10 @@
+^D:\ANKIT\PROJECTS\PLANTER_PRESSURE\NATIVE_ENGINE\WINDOWS\BUILD\CMAKEFILES\080F6BE97C1384B42E047CA6AE1DF2A7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Ankit/projects/planter_pressure/native_engine/windows -BD:/Ankit/projects/planter_pressure/native_engine/windows/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Ankit/projects/planter_pressure/native_engine/windows/build/PlanterPressureEngine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

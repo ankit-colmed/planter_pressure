@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Ankit\projects\planter_pressure\native_engine\windows\build\CMakeFiles\cb554ded803e40bd999031d3a4928227\app_modules.zip.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Ankit\projects\planter_pressure\native_engine\windows\build\CMakeFiles\080f6be97c1384b42e047ca6ae1df2a7\build_python_assets.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Ankit\projects\planter_pressure\native_engine\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Ankit\projects\planter_pressure\native_engine\windows\build\CMakeFiles\build_python_assets" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FE3C6F7B-9235-30B1-B362-3210BCD80262}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

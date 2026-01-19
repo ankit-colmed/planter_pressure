@@ -1,0 +1,4 @@
+D:/Ankit/projects/planter_pressure/native_engine/windows/build/CMakeFiles/image_processor_engine.dir
+D:/Ankit/projects/planter_pressure/native_engine/windows/build/CMakeFiles/build_python_assets.dir
+D:/Ankit/projects/planter_pressure/native_engine/windows/build/CMakeFiles/ALL_BUILD.dir
+D:/Ankit/projects/planter_pressure/native_engine/windows/build/CMakeFiles/ZERO_CHECK.dir

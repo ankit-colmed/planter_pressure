@@ -1,0 +1,10 @@
+^D:\ANKIT\PROJECTS\PLANTER_PRESSURE\NATIVE_ENGINE\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Ankit/projects/planter_pressure/native_engine/windows -BD:/Ankit/projects/planter_pressure/native_engine/windows/build --check-stamp-file D:/Ankit/projects/planter_pressure/native_engine/windows/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
